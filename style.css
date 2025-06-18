@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e6f2f2;
+  color: #333;
+}
+
+#bt {
+  background-color: #fff;
+  color: #1dbf73;
+  padding: 10px 20px;
+  border: 2px solid #1dbf73;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#bt:hover {
+  background-color: #1dbf73;
+  color: #fff;
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
